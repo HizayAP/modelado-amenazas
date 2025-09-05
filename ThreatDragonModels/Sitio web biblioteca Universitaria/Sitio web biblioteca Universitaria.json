@@ -1,0 +1,16 @@
+{
+  "version": "2.5.0",
+  "summary": {
+    "title": "Sitio web biblioteca Universitaria",
+    "owner": "Oscar Hizay Apodaca Garcia",
+    "description": "Amenazas al Sitio web de la Universidad",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "diagramTop": 1,
+    "reviewer": "Guillermo Vera",
+    "threatTop": 0
+  }
+}
